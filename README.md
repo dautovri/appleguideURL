@@ -1,6 +1,6 @@
 # Apple Guides URL Decoder 📜
 
-This project provides tools to decode URLs from Apple Guides, extract location descriptions, and collect Apple IDs from the decoded data.
+This project provides code to decode URLs from Apple Guides, extract location descriptions, and collect Apple Maps IDs from the decoded data.
 
 ## URL Formats 🌐
 
@@ -72,6 +72,11 @@ Guide Name: Nice to visit
  Apple Maps ID 2 : I...
  ...
 ```
+
+## Verify Apple IDs
+Each Place ID is a special identifier that helps you find unique points of interest on the Maps. Feel free to use the map below to easily look up a Place ID by searching for or selecting a place you’re interested in!
+
+[Apple Maps Place ID Lookup](https://developer.apple.com/maps/place-id-lookup/)
 
 ## Contributing 🤝
 
