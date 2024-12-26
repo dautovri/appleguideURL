@@ -81,13 +81,3 @@ Each Place ID is a special identifier that helps you find unique points of inter
 ## Contributing 🤝
 
 Contributions are welcome! Please open an issue or submit a pull request.
-
-## Domains 🌍
-
-- guide1-n.apple.com
-- guide2-n.apple.com
-- guide.apple.com
-- guidejp1-n.apple.com
-- guidejp2.apple.com
-- guidejp2-n.apple.com
-- guidejp-n.apple.com
